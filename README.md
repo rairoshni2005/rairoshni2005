@@ -1,3 +1,5 @@
+![logo](Black and White Monochrome Tech Logo.png)
+
 [![MasterHead](https://images.app.goo.gl/1bMu6RBNaQ5rErzn6)](https://codegrills.in)
 
 <h1 align="center"> ROSHNI RAI🌟</h1>
