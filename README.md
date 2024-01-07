@@ -1,4 +1,4 @@
-![logo](Black and White Monochrome Tech Logo.png)
+![logo](https://images.app.goo.gl/r3kpshX1HZeVq3us8)
 
 [![MasterHead](https://images.app.goo.gl/1bMu6RBNaQ5rErzn6)](https://codegrills.in)
 
