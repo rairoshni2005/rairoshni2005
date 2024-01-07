@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://images.app.goo.gl/1bMu6RBNaQ5rErzn6)](https://codegrills.in)
 
 <h1 align="center"> ROSHNI RAI🌟</h1>
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering. </h3>
