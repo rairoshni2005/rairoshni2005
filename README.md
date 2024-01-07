@@ -1,19 +1,19 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 <h1 align="center"> ROSHNI RAI</h1>
-<h3 align="center">An upcoming passionate software engineer</h3>
+<h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <a href="https://twitter.com/@roshni_rai_18" target="blank"><img src="https://img.shields.io/twitter/follow/@roshni_rai_18?logo=twitter&style=for-the-badge" alt="@roshni_rai_18" /></a> </p>
 
-- 🔭 I’m currently working on **Python Project**
+- 🔭 Currently engaged in the development of a Python project, delving into the intricacies of software craftsmanship.
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 Actively enhancing my skill set with a focus on mastering Figma, an essential tool in the design and prototyping landscape.
 
-- 👯 I’m looking to collaborate on **Intership Projects**
+- 👯 Eager to collaborate on internship projects, seeking opportunities to contribute meaningfully to the dynamic field of software engineering.
 
-- 📫 How to reach me **2023.roshnir@isu.ac.in**
+- 📫 Reach out to me at 2023.roshnir@isu.ac.in for professional inquiries and collaboration discussions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
