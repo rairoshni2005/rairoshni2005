@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Roshni Rai
 🔭 I’m currently working on Python Project<br><br>🌱 I’m currently learning Figma<br><br>👯 I’m looking to collaborate on Intership Projects<br><br>📫 How to reach me 2023.roshnir@isu.ac.in
 
 
