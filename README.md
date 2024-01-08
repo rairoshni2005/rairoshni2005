@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/Db1ixY5RSdvju9zm9)
+[![MasterHead]([https://images.app.goo.gl/Db1ixY5RSdvju9zm9](https://www.google.com/search?q=banner+gif+tech&tbm=isch&ved=2ahUKEwij16Ld2syDAxVVSmcHHfndCzYQ2-cCegQIABAA&oq=banner+gif+tech&gs_lcp=CgNpbWcQAzIGCAAQCBAeOgoIABCABBCKBRBDOgUIABCABDoECAAQHjoGCAAQBRAeUABYnQpgpg1oAHAAeACAAb4BiAHnBZIBAzAuNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=DlmbZaOYK9WUnesP-buvsAM&bih=833&biw=1470&rlz=1C5CHFA_enIN1071IN1071#imgrc=s4r9Diz_BBhnYM))
 
 <h1 align="center"> ROSHNI RAI🌟</h1>
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering. </h3>
