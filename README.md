@@ -1,5 +1,3 @@
-![logo]()
-
 [![MasterHead](https://images.app.goo.gl/Db1ixY5RSdvju9zm9)
 
 <h1 align="center"> ROSHNI RAI🌟</h1>
