@@ -1,4 +1,4 @@
-![logo]([https://images.app.goo.gl/r3kpshX1HZeVq3us8](https://github.com/rairoshni2005/rairoshni2005/blob/banner/Pink%20Gaming%20YouTube%20Channel%20Art.png))
+![logo]()
 
 [![MasterHead](https://images.app.goo.gl/1bMu6RBNaQ5rErzn6)](https://codegrills.in)
 
