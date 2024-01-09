@@ -2,6 +2,8 @@
 <h1 align="center"> ROSHNI RAI🌟</h1>
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <p align="left"> <a href="https://twitter.com/@roshni_rai_18" target="blank"><img src="https://img.shields.io/twitter/follow/@roshni_rai_18?logo=twitter&style=for-the-badge" alt="@roshni_rai_18" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
