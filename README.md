@@ -26,5 +26,35 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rairoshni2005&" alt="rairoshni2005" /></p>
 
 
+
+<br/>
+<hr/>
+
+<p align="center">
+  <a href="https://github.com/rairoshni2005">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rairoshni2005&theme=radical&border=7F3FBF&background=0D1117" alt="Roshni Rai GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rairoshni2005">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rairoshni2005&theme=radical" alt="Roshni Rai GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/rairoshni2005">
+    <img alt="Roshni Rai Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rairoshni2005&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/rairoshni2005">
+    <img alt="Roshni Rai Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rairoshni2005&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <br/>
+</a>
+
+
+
+
+
 <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
