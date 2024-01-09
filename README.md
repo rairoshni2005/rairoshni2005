@@ -1,5 +1,6 @@
 ![logo](https://github.com/rairoshni2005/rairoshni2005/blob/main/banner.png)
 <h1 align="center"> ROSHNI RAI🌟</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello Everyone!;+I'm+ Roshni Rai!;" />
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
