@@ -1,4 +1,4 @@
-<div background="file:///Users/roshnirai/Desktop/Screenshot%202024-01-08%20at%206.45.05%E2%80%AFAM.png">
+<div background="https://images.app.goo.gl/KY2s7r2s5QosKzXU6">
   <h1 align="center"> ROSHNI RAI🌟</h1>
 </div>
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering. </h3>
