@@ -1,3 +1,4 @@
+![logo](https://github.com/rairoshni2005/rairoshni2005/blob/main/banner.png)
 <div background="https://images.app.goo.gl/KY2s7r2s5QosKzXU6">
   <h1 align="center"> ROSHNI RAI🌟</h1>
 </div>
