@@ -1,5 +1,4 @@
 ![logo](https://github.com/rairoshni2005/rairoshni2005/blob/main/banner.png)
-<div background="https://images.app.goo.gl/KY2s7r2s5QosKzXU6">
   <h1 align="center"> ROSHNI RAI🌟</h1>
 </div>
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering. </h3>
