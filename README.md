@@ -1,4 +1,6 @@
-<h1 align="center"> ROSHNI RAI🌟</h1>
+<div background="https://drive.google.com/file/d/1IYGHNhL6HaIIah4Qj0PqUxmRa4WsUvQ4/view?usp=drive_link">
+  <h1 align="center"> ROSHNI RAI🌟</h1>
+</div>
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
