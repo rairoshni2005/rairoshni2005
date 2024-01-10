@@ -42,7 +42,7 @@
 
    <div align="center">
     <div align="center">
-  <img src="https://images.app.goo.gl/hQ4FzwxHaXZfjK4ZA" height="80" width="30%">
+  <img src="https://metasocial.ae/wp-content/uploads/2022/11/lineartwebsite.gif" height="80" width="30%">
 </div>
    <br>
 
