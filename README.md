@@ -27,62 +27,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-
-
-
-
-
-
-
-
-<div align="center">
-  <a href="https://www.instagram.com/_._naidu.jeevan_._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=njeevan0406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jeevan-naidu-bhārata" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@@2023.jeevann" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="medium logo"  />
-  </a>
-  <a href="https://twitter.com/_Jeevan_naidu_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
-  </a>
-  <a href="https://www.behance.net/jeevannaidu1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="behance logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/2023_jeevann" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.patreon.com/Nirukti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="patreon logo"  />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=git,github,c,vscode,blender,figma,wordpress&theme=light" />
-    <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
-    <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
-    <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
-  </a>
-
-
-
-
-
-
-
-
-
-
-
-
  </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
