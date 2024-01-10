@@ -1,5 +1,10 @@
 ![logo](https://github.com/rairoshni2005/rairoshni2005/blob/main/banner.png)
 <h1 align="center"> ROSHNI RAI🌟</h1>
+
+ </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -52,12 +57,17 @@
 </a>
 
 
+ </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
 <br>
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+ </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <div align="center">
@@ -70,3 +80,7 @@
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
+
+
+ </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
