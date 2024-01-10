@@ -14,18 +14,15 @@
 
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering.</h3>
 
-
-
-<br/>
-
-
-<div align="left">
-
+<p align="left">
     
-🔭 Currently engaged in the development of a Python project, delving into the intricacies of software craftsmanship.
-👯 Eager to collaborate on internship projects, seeking opportunities to contribute meaningfully to the dynamic field of software engineering.
-🌱 Actively enhancing my skill set with a focus on mastering Figma, an essential tool in the design and prototyping landscape.
-📫 Reach out to me at 2023.roshnir@isu.ac.in for professional inquiries and collaboration discussions.
+- 🔭 Currently engaged in the development of a Python project, delving into the intricacies of software craftsmanship.
+- 
+- 👯 Eager to collaborate on internship projects, seeking opportunities to contribute meaningfully to the dynamic field of software engineering.
+- 
+- 🌱 Actively enhancing my skill set with a focus on mastering Figma, an essential tool in the design and prototyping landscape.
+- 
+- 📫 Reach out to me at 2023.roshnir@isu.ac.in for professional inquiries and collaboration discussions.
 
 
 
