@@ -75,6 +75,12 @@
  </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+![Roshni Rai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rairoshni2005&custom_title=Roshni%20Rai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+ </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <div align="center">
   <h2> Quotes </h2>
