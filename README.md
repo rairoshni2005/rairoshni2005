@@ -14,7 +14,7 @@
 
 <h3 align="center">Embarking on a coding adventure! 🚀 Excited to commit my passion to GitHub and contribute to the world of software engineering.</h3>
 
-<p align="left">
+<p align="center">
     
 - 🔭 Currently engaged in the development of a Python project, delving into the intricacies of software craftsmanship.
   
