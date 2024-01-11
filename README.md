@@ -99,7 +99,7 @@
 
 <br>
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rairoshni2005/rairoshni2005/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
  </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
