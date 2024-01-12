@@ -16,7 +16,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
     
 - 🔭 Currently engaged in the development of a Python project, delving into the intricacies of software craftsmanship.
   
