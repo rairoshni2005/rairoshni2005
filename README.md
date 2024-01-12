@@ -17,8 +17,6 @@
 <br/>
 
 <div align="left">
-    
-- 🔭 Currently engaged in the development of a Python project, delving into the intricacies of software craftsmanship.
   
 - 👯 Eager to collaborate on internship projects, seeking opportunities to contribute meaningfully to the dynamic field of software engineering.
  
