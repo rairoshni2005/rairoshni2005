@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rairoshni2005.rairoshni2005" />
+
 ![logo](https://github.com/rairoshni2005/rairoshni2005/blob/main/banner.png)
 
 <h1 align="center">
