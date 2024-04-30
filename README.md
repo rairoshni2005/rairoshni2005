@@ -78,8 +78,8 @@
         <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40"/>
     </a>
     <a href="https://www.appsheet.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/appsheet/appsheet-icon.svg" alt="AppSheet" width="40" height="40"/>
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/appsheet/appsheet-icon.svg" alt="AppSheet" width="40" height="40"/>
+</a>
 </p>
 
 
