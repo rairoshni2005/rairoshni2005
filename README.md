@@ -24,7 +24,7 @@
  
 - 🌱 Actively enhancing my skill set with a focus on mastering Figma, an essential tool in the design and prototyping landscape.
   
-- 📫 Reach out to me at 2023.roshnir@isu.ac.in for professional inquiries and collaboration discussions.
+- 📫 Reach out to me at rairoshni2005@gmail.com for professional inquiries and collaboration discussions.
 
 
 
@@ -56,6 +56,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
+    
 </p>
 
 
