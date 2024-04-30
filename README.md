@@ -38,10 +38,6 @@
 <a href="https://linkedin.com/in/roshni rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshni rai" height="30" width="40" /></a>
 <a href="https://instagram.com/_rosh_rai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rosh_rai_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/roshni rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roshni rai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@2023_roshnir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2023_roshnir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5606yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5606yy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@2023.roshnir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2023.roshnir" height="30" width="40" /></a>
-<a href="https://discord.gg/roshni_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="roshni_rai" height="30" width="40" /></a>
 </p>
 
 
