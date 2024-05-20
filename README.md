@@ -77,9 +77,10 @@
     <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40"/>
     </a>
-   <a href="https://www.appsheet.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/appsheet.png" alt="AppSheet" width="40" height="40"/>
-</a>
+
+ <a href="https://skillicons.dev">
+    <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
+  </a>
 
 </p>
 
