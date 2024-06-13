@@ -86,6 +86,10 @@
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
   </a>
 
+   <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="60" />
+    </a>
+
 </p>
 
 
