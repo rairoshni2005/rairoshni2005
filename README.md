@@ -90,6 +90,11 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="60" />
     </a>
 
+
+ <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
+                    <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
+    
+    </a>
 </p>
 
 
