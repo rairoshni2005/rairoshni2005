@@ -69,17 +69,17 @@
     <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40"/>
     </a>
-    <a href="https://skillicons.dev">
-        <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
+    <a href="https://www.webflow.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" width="40" height="40"/>
     </a>
-    <a href="https://skillicons.dev">
-        <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
+    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="DBMS" width="40" height="40"/>
     </a>
-    <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="60" />
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
-    <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
-        <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
+    <a href="https://www.cisco.com/c/en/us/products/routers/what-is-computer-networking.html" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png" alt="Computer Network" width="40" height="40"/>
     </a>
 </p>
 
@@ -110,34 +110,11 @@
 </p>
 
 <a href="https://github.com/rairoshni2005">
-  <img alt="Roshni Rai Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rairoshni2005&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <img alt="Roshni Rai Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rairoshni2005&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" />
 </a>
+
 <a href="https://github.com/rairoshni2005">
-  <img alt="Roshni Rai Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rairoshni2005&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairoshni2005&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117" alt="Roshni Rai Top Languages"/>
 </a>
-<br/>
 
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<br>
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</p>
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-![Roshni Rai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rairoshni2005&custom_title=Roshni%20Rai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-  <h2> Quotes </h2>
-  <div align="center">
-    <p>
-      [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
-    </p>
-  </div>
-</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
