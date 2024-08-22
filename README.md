@@ -72,6 +72,9 @@
     <a href="https://www.webflow.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" width="40" height="40"/>
     </a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+    </a>
     <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="DBMS" width="40" height="40"/>
     </a>
@@ -79,7 +82,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
     <a href="https://www.cisco.com/c/en/us/products/routers/what-is-computer-networking.html" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png" alt="Computer Network" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Computer Network" width="40" height="40"/>
     </a>
 </p>
 
@@ -110,11 +113,11 @@
 </p>
 
 <a href="https://github.com/rairoshni2005">
-  <img alt="Roshni Rai Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rairoshni2005&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" />
+  <img alt="Roshni Rai Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rairoshni2005&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/rairoshni2005">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairoshni2005&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117" alt="Roshni Rai Top Languages"/>
+  <img alt="Roshni Rai Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairoshni2005&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117" />
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
