@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/roshni rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshni rai" height="30" width="40" /></a>
 <a href="https://instagram.com/_rosh_rai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rosh_rai_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/roshni rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roshni rai" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/roshni_rai10427" target="blank"><img align="center" src="https://icons8.com/icon/J7TvpV0ob6HX/snapchat-a-multimedia-messaging-app-used-globally" alt="Snapchat" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/roshni_rai10427" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/snapchat.png" alt="Snapchat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
